@@ -1,0 +1,16 @@
+Metric,Value
+Original SNR,4.682164192199707
+Filtered SNR,5.487545
+SNR Improvement (%),17.201045570583894
+Original Signal Depth,0.00797569751739502
+Filtered Signal Depth,0.007819
+Original Noise,0.0017034211196005344
+Filtered Noise,0.001425
+Noise Reduction (%),16.35
+Original Transit Depth (ppm),7975.69775390625
+Filtered Transit Depth (ppm),7818.834789
+Original Data Points,46158.0
+Filtered Data Points,46158.0
+Original NaNs,0.0
+Filtered NaNs,0.0
+Filtered Infs,0.0
